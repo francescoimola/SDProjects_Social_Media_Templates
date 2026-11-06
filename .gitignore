@@ -5,6 +5,13 @@
 *.idlk
 ~*
 
+# Scratch and backup files
+*.tmp
+*.bak
+
+# InDesign document fonts folder (created on packaging)
+Document fonts/
+
 # Claude Code local state
 .claude/
 
