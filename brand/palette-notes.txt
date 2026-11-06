@@ -1,0 +1,20 @@
+The colour palette was corrected to allow for better contrast and colour-blindness accessibility, and to make the colours more discriminable when used next to each other.
+
+This work was done thinking ahead to a potential future when we might build proper brand guidelines for SD, where the colour palette needs to work not just for social media posts but for a multitude of purposes, and will be read by people with all sorts of vision abilities.
+
+I started by evaluating the Electric palette for how discriminable the colours are from each other, with a tool called Category Colors, which is based on a method by designer Matt Ström-Awn.
+
+Using another published method by Ström-Awn, I built 11 shades for each colour. The shades form a series of even steps that the eye perceives as going from light to dark.
+
+What changed from the original Electric palette in the brief:
+- Orange, teal, black and off-white are unchanged.
+- "Building blue" matches RAL 5002.
+- Reading Room gains a slightly darker teal, #00988C, as part of its shades, and I recommend using this for text and graphics.
+
+On RAL 5002:
+The brief seems to have used the wrong screen colour for RAL 5002. The closest match I could find is #2F4D86, not #2B2C7C, because it reflects as much light as real RAL 5002 paint does, about 7%. See it here listed by Crown Paints: https://professional.crownpaints.com/colour/swatch/5002/
+
+If you want to nerd out on the colour science, check out:
+https://mattstromawn.com/writing/generating-color-palettes/
+https://oklch.com
+https://categorycolors.com

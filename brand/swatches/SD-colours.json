@@ -1,0 +1,276 @@
+[
+ [
+  "SD – Core",
+  [
+   [
+    "Orange · Kelpcrete",
+    "#FF5F00"
+   ],
+   [
+    "Teal · Reading Room",
+    "#00A99D"
+   ],
+   [
+    "Teal text · Reading Room",
+    "#00988C"
+   ],
+   [
+    "Blue · Building",
+    "#2F4D86"
+   ],
+   [
+    "Black · Events",
+    "#101113"
+   ],
+   [
+    "Off-white",
+    "#F5F3EB"
+   ]
+  ]
+ ],
+ [
+  "SD – Orange shades (Kelpcrete)",
+  [
+   [
+    "Orange 50",
+    "#FAF3F1"
+   ],
+   [
+    "Orange 100",
+    "#F7E3DB"
+   ],
+   [
+    "Orange 200",
+    "#F9C8B5"
+   ],
+   [
+    "Orange 300",
+    "#FCA07C"
+   ],
+   [
+    "Orange 400",
+    "#FF5F00"
+   ],
+   [
+    "Orange 500",
+    "#DB4F00"
+   ],
+   [
+    "Orange 600",
+    "#B63F00"
+   ],
+   [
+    "Orange 700",
+    "#86300C"
+   ],
+   [
+    "Orange 800",
+    "#642914"
+   ],
+   [
+    "Orange 900",
+    "#422116"
+   ],
+   [
+    "Orange 950",
+    "#27150F"
+   ]
+  ]
+ ],
+ [
+  "SD – Teal shades (Reading Room)",
+  [
+   [
+    "Teal 50",
+    "#EDF8F6"
+   ],
+   [
+    "Teal 100",
+    "#CBF1EC"
+   ],
+   [
+    "Teal 200",
+    "#77EBE0"
+   ],
+   [
+    "Teal 300",
+    "#28D5C8"
+   ],
+   [
+    "Teal 400",
+    "#00A99D"
+   ],
+   [
+    "Teal 500",
+    "#00988C"
+   ],
+   [
+    "Teal 600",
+    "#007D73"
+   ],
+   [
+    "Teal 700",
+    "#0E5C54"
+   ],
+   [
+    "Teal 800",
+    "#134640"
+   ],
+   [
+    "Teal 900",
+    "#14312D"
+   ],
+   [
+    "Teal 950",
+    "#0E1E1C"
+   ]
+  ]
+ ],
+ [
+  "SD – Blue shades (Building)",
+  [
+   [
+    "Blue 50",
+    "#F3F5F9"
+   ],
+   [
+    "Blue 100",
+    "#E3E8F3"
+   ],
+   [
+    "Blue 200",
+    "#C8D5EE"
+   ],
+   [
+    "Blue 300",
+    "#A3BBEA"
+   ],
+   [
+    "Blue 400",
+    "#7A9DE4"
+   ],
+   [
+    "Blue 500",
+    "#5780D5"
+   ],
+   [
+    "Blue 600",
+    "#4069B8"
+   ],
+   [
+    "Blue 700",
+    "#2F4D86"
+   ],
+   [
+    "Blue 800",
+    "#283D62"
+   ],
+   [
+    "Blue 900",
+    "#202B3F"
+   ],
+   [
+    "Blue 950",
+    "#151B25"
+   ]
+  ]
+ ],
+ [
+  "SD – Grey shades (Events)",
+  [
+   [
+    "Grey 50",
+    "#F5F5F6"
+   ],
+   [
+    "Grey 100",
+    "#E6E8EA"
+   ],
+   [
+    "Grey 200",
+    "#D0D4DC"
+   ],
+   [
+    "Grey 300",
+    "#B3BBCA"
+   ],
+   [
+    "Grey 400",
+    "#949FB4"
+   ],
+   [
+    "Grey 500",
+    "#78839B"
+   ],
+   [
+    "Grey 600",
+    "#616C81"
+   ],
+   [
+    "Grey 700",
+    "#48505F"
+   ],
+   [
+    "Grey 800",
+    "#383D47"
+   ],
+   [
+    "Grey 900",
+    "#292B30"
+   ],
+   [
+    "Grey 950",
+    "#101113"
+   ]
+  ]
+ ],
+ [
+  "SD – Warm neutral shades",
+  [
+   [
+    "Warm neutral 50",
+    "#F5F3EB"
+   ],
+   [
+    "Warm neutral 100",
+    "#E9E8E5"
+   ],
+   [
+    "Warm neutral 200",
+    "#D7D4CA"
+   ],
+   [
+    "Warm neutral 300",
+    "#BFBBA8"
+   ],
+   [
+    "Warm neutral 400",
+    "#A59F87"
+   ],
+   [
+    "Warm neutral 500",
+    "#89836C"
+   ],
+   [
+    "Warm neutral 600",
+    "#716C57"
+   ],
+   [
+    "Warm neutral 700",
+    "#545041"
+   ],
+   [
+    "Warm neutral 800",
+    "#403D34"
+   ],
+   [
+    "Warm neutral 900",
+    "#2C2B27"
+   ],
+   [
+    "Warm neutral 950",
+    "#1B1B19"
+   ]
+  ]
+ ]
+]

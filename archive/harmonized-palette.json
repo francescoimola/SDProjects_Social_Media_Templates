@@ -1,0 +1,272 @@
+[
+  {
+    "level": "100",
+    "hue": "Red",
+    "oklch": "oklch(0.97 0.01 22)",
+    "hex": "#fef3f2"
+  },
+  {
+    "level": "200",
+    "hue": "Red",
+    "oklch": "oklch(0.92 0.04 22)",
+    "hex": "#ffdcd9"
+  },
+  {
+    "level": "300",
+    "hue": "Red",
+    "oklch": "oklch(0.86 0.08 22)",
+    "hex": "#febdb9"
+  },
+  {
+    "level": "400",
+    "hue": "Red",
+    "oklch": "oklch(0.79 0.12 22)",
+    "hex": "#fe9c98"
+  },
+  {
+    "level": "500",
+    "hue": "Red",
+    "oklch": "oklch(0.71 0.18 22)",
+    "hex": "#ff6a6d"
+  },
+  {
+    "level": "600",
+    "hue": "Red",
+    "oklch": "oklch(0.67 0.22 22)",
+    "hex": "#ff4653"
+  },
+  {
+    "level": "700",
+    "hue": "Red",
+    "oklch": "oklch(0.57 0.23 22)",
+    "hex": "#e00634"
+  },
+  {
+    "level": "800",
+    "hue": "Red",
+    "oklch": "oklch(0.46 0.18 22)",
+    "hex": "#a50323"
+  },
+  {
+    "level": "900",
+    "hue": "Red",
+    "oklch": "oklch(0.34 0.14 22)",
+    "hex": "#6e0215"
+  },
+  {
+    "level": "100",
+    "hue": "Mustard",
+    "oklch": "oklch(0.96 0.05 176)",
+    "hex": "#d1fff2"
+  },
+  {
+    "level": "200",
+    "hue": "Mustard",
+    "oklch": "oklch(0.89 0.17 176)",
+    "hex": "#11ffd8"
+  },
+  {
+    "level": "300",
+    "hue": "Mustard",
+    "oklch": "oklch(0.83 0.15 176)",
+    "hex": "#0ee6c2"
+  },
+  {
+    "level": "400",
+    "hue": "Mustard",
+    "oklch": "oklch(0.76 0.14 176)",
+    "hex": "#0acdad"
+  },
+  {
+    "level": "500",
+    "hue": "Mustard",
+    "oklch": "oklch(0.67 0.13 176)",
+    "hex": "#06af93"
+  },
+  {
+    "level": "600",
+    "hue": "Mustard",
+    "oklch": "oklch(0.63 0.12 176)",
+    "hex": "#07a087"
+  },
+  {
+    "level": "700",
+    "hue": "Mustard",
+    "oklch": "oklch(0.55 0.1 176)",
+    "hex": "#06846f"
+  },
+  {
+    "level": "800",
+    "hue": "Mustard",
+    "oklch": "oklch(0.44 0.08 176)",
+    "hex": "#056151"
+  },
+  {
+    "level": "900",
+    "hue": "Mustard",
+    "oklch": "oklch(0.33 0.06 176)",
+    "hex": "#034035"
+  },
+  {
+    "level": "100",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.97 0.02 239)",
+    "hex": "#ecf7fe"
+  },
+  {
+    "level": "200",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.92 0.04 239)",
+    "hex": "#cae8fe"
+  },
+  {
+    "level": "300",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.85 0.09 239)",
+    "hex": "#97d5ff"
+  },
+  {
+    "level": "400",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.77 0.13 239)",
+    "hex": "#5bc0fe"
+  },
+  {
+    "level": "500",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.68 0.15 239)",
+    "hex": "#05a4ed"
+  },
+  {
+    "level": "600",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.64 0.14 239)",
+    "hex": "#0496da"
+  },
+  {
+    "level": "700",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.56 0.13 239)",
+    "hex": "#017bb4"
+  },
+  {
+    "level": "800",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.45 0.1 239)",
+    "hex": "#025b85"
+  },
+  {
+    "level": "900",
+    "hue": "Turquoise",
+    "oklch": "oklch(0.34 0.08 239)",
+    "hex": "#033c5a"
+  },
+  {
+    "level": "100",
+    "hue": "Azure",
+    "oklch": "oklch(0.97 0.03 210)",
+    "hex": "#e0faff"
+  },
+  {
+    "level": "200",
+    "hue": "Azure",
+    "oklch": "oklch(0.91 0.08 210)",
+    "hex": "#a1f1ff"
+  },
+  {
+    "level": "300",
+    "hue": "Azure",
+    "oklch": "oklch(0.83 0.14 210)",
+    "hex": "#10e0fa"
+  },
+  {
+    "level": "400",
+    "hue": "Azure",
+    "oklch": "oklch(0.76 0.13 210)",
+    "hex": "#07c8e0"
+  },
+  {
+    "level": "500",
+    "hue": "Azure",
+    "oklch": "oklch(0.68 0.12 210)",
+    "hex": "#00abbf"
+  },
+  {
+    "level": "600",
+    "hue": "Azure",
+    "oklch": "oklch(0.64 0.11 210)",
+    "hex": "#059caf"
+  },
+  {
+    "level": "700",
+    "hue": "Azure",
+    "oklch": "oklch(0.55 0.09 210)",
+    "hex": "#098090"
+  },
+  {
+    "level": "800",
+    "hue": "Azure",
+    "oklch": "oklch(0.44 0.08 210)",
+    "hex": "#065e6a"
+  },
+  {
+    "level": "900",
+    "hue": "Azure",
+    "oklch": "oklch(0.34 0.06 210)",
+    "hex": "#023f48"
+  },
+  {
+    "level": "100",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.97 0.02 48)",
+    "hex": "#fff3ec"
+  },
+  {
+    "level": "200",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.92 0.04 48)",
+    "hex": "#fedecd"
+  },
+  {
+    "level": "300",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.85 0.09 48)",
+    "hex": "#ffbf9e"
+  },
+  {
+    "level": "400",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.79 0.13 48)",
+    "hex": "#ff9f6c"
+  },
+  {
+    "level": "500",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.71 0.19 48)",
+    "hex": "#fb7200"
+  },
+  {
+    "level": "600",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.66 0.18 48)",
+    "hex": "#e66801"
+  },
+  {
+    "level": "700",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.58 0.16 48)",
+    "hex": "#bf5501"
+  },
+  {
+    "level": "800",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.46 0.13 48)",
+    "hex": "#8e3d01"
+  },
+  {
+    "level": "900",
+    "hue": "Fuchsia",
+    "oklch": "oklch(0.35 0.09 48)",
+    "hex": "#602701"
+  }
+]

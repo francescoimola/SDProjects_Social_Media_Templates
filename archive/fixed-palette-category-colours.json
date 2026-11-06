@@ -1,0 +1,60 @@
+{
+  "palette": {
+    "1": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.3725,
+          0
+        ],
+        "hex": "#ff5f00"
+      }
+    },
+    "2": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.6627,
+          0.6157
+        ],
+        "hex": "#00a99d"
+      }
+    },
+    "3": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.1843,
+          0.302,
+          0.5255
+        ],
+        "hex": "#2f4d86"
+      }
+    },
+    "4": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.0627,
+          0.0667,
+          0.0745
+        ],
+        "hex": "#101113"
+      }
+    },
+    "5": {
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9608,
+          0.9529,
+          0.9216
+        ],
+        "hex": "#f5f3eb"
+      }
+    },
+    "$type": "color"
+  }
+}

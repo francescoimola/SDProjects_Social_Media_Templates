@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# InDesign lock and recovery files
+*.idlk
+~*
+
+# Claude Code local state
+.claude/
+
+# Photos are kept out of git (see source-images/README.md)
+source-images/*
+!source-images/.gitkeep
+!source-images/README.md
